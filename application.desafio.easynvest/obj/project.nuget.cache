@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "DpPEJZ8rJtMk3vP22m3NfC/UnvmwTMQAPgDaeYsyNZ6Lmrqtt+gcAH+iC1A4KBn5WH/UpUYv5B2wxGtvKOXkSA==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Project\\Easynvest\\application.desafio.easynvest\\Application.Desafio.Easynvest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BSI94018\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\BSI94018\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.4\\microsoft.extensions.caching.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\BSI94018\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\BSI94018\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.4\\microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\BSI94018\\.nuget\\packages\\microsoft.extensions.options\\3.1.4\\microsoft.extensions.options.3.1.4.nupkg.sha512",
+    "C:\\Users\\BSI94018\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "C:\\Users\\BSI94018\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\BSI94018\\.nuget\\packages\\refit\\5.1.67\\refit.5.1.67.nupkg.sha512",
+    "C:\\Users\\BSI94018\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

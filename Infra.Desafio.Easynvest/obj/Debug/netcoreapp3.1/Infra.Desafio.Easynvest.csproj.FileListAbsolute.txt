@@ -1,0 +1,9 @@
+C:\Projetos\Project\Easynvest\Infra.Desafio.Easynvest\bin\Debug\netcoreapp3.1\Infra.Desafio.Easynvest.deps.json
+C:\Projetos\Project\Easynvest\Infra.Desafio.Easynvest\bin\Debug\netcoreapp3.1\Infra.Desafio.Easynvest.dll
+C:\Projetos\Project\Easynvest\Infra.Desafio.Easynvest\bin\Debug\netcoreapp3.1\Infra.Desafio.Easynvest.pdb
+C:\Projetos\Project\Easynvest\Infra.Desafio.Easynvest\obj\Debug\netcoreapp3.1\Infra.Desafio.Easynvest.csprojAssemblyReference.cache
+C:\Projetos\Project\Easynvest\Infra.Desafio.Easynvest\obj\Debug\netcoreapp3.1\Infra.Desafio.Easynvest.AssemblyInfoInputs.cache
+C:\Projetos\Project\Easynvest\Infra.Desafio.Easynvest\obj\Debug\netcoreapp3.1\Infra.Desafio.Easynvest.AssemblyInfo.cs
+C:\Projetos\Project\Easynvest\Infra.Desafio.Easynvest\obj\Debug\netcoreapp3.1\Infra.Desafio.Easynvest.csproj.CoreCompileInputs.cache
+C:\Projetos\Project\Easynvest\Infra.Desafio.Easynvest\obj\Debug\netcoreapp3.1\Infra.Desafio.Easynvest.dll
+C:\Projetos\Project\Easynvest\Infra.Desafio.Easynvest\obj\Debug\netcoreapp3.1\Infra.Desafio.Easynvest.pdb
