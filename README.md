@@ -1,7 +1,7 @@
 # Desafio Easynvest
 Teste para desenvolvedor back-end na Easynvest
 
-Esta solução consiste em uma API para retornar os investimentos para clientes, onde o mesmo pode possuir 3 tipos de investimentos (tesouro direto, renda fixa e fundos), retornando o valor total dos investimentos, e uma lista com todos eles, tendo o cálculo de imposto de renda, e do valor do resgate no momento atual em cada um dos investimentos listados.
+Esta solução consiste em uma API para retornar os investimentos para clientes, onde o mesmo pode possuir 3 tipos de investimentos (tesouro direto, renda fixa e fundos), apresentando  o valor total dos investimentos, e uma lista  com o retorno de todos eles, tendo o cálculo de imposto de renda, e do valor do resgate no momento atual em cada um dos investimentos listados.
 
 ## Decisões do projeto
 
